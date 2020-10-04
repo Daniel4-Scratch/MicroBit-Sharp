@@ -23,7 +23,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/daniel4-scratch/microbit-sharp/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://daniel4-scratch.github.io/MicroBit-Sharp/images-other/Screen%20Shot%202020-10-04%20at%207.25.35%20pm.png)
 
 #### Metadata (used for search, rendering)
 
