@@ -1,5 +1,5 @@
-
-> Open this page at [https://daniel4-scratch.github.io/microbit-sharp/](https://daniel4-scratch.github.io/microbit-sharp/)
+# MicroBit#
+> Open this page at [https://daniel4-scratch.github.io/microbit-sharp/](https://daniel4-scratch.github.io/MicroBit-Sharp/)
 
 ## Use as Extension
 
